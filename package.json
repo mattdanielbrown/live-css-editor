@@ -84,7 +84,7 @@
     "jsonfile": "^6.1.0",
     "node-notifier": "^10.0.1",
     "note-down": "=1.0.2",
-    "webpack": "^5.93.0",
+    "webpack": "^5.101.0",
     "webpack-cli": "^5.1.4"
   }
 }
