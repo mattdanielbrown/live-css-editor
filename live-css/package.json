@@ -24,7 +24,7 @@
     "local-ip-addresses-and-hostnames": "=0.2.0",
     "nocache": "^4.0.0",
     "note-down": "=1.0.2",
-    "socket.io": "^2.5.0",
+    "socket.io": "^4.8.1",
     "tiny-emitter": "^2.1.0",
     "unused-filename": "=2.1.0",
     "update-notifier": "=5.1.0",
