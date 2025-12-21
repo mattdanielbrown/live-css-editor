@@ -67,8 +67,6 @@ var manageClassListForWidth = function ({ classList, width }) {
 };
 
 (function ($) {
-    'use strict';
-
     var runningInAndroidFirefox = false;
     if (window.platformInfoOs === 'android') {
         runningInAndroidFirefox = true;

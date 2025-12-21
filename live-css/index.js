@@ -2,9 +2,6 @@
 
 /* eslint-env node */
 
-'use strict';   // Would be useful for supporting Node JS v4 if using "let", "class", etc.
-                // 'use strict'; can be removed when dropping support for Node JS v4
-
 var nodeVersion = process.versions.node,
     semverArrNodeVersion = nodeVersion.split('.');
 if (parseInt(semverArrNodeVersion[0], 10) < 4) {

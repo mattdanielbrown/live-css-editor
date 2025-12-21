@@ -1,7 +1,5 @@
 /* global jQuery */
 
-'use strict';
-
 var utils = window.utils || {};
 
 if (!utils.defined) {
