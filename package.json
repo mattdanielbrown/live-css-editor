@@ -51,7 +51,7 @@
     "immer": "^10.1.1",
     "jquery": "^3.7.1",
     "mini-css-extract-plugin": "^2.9.0",
-    "mixpanel-browser": "webextensions/mixpanel-js-mv3#fetch-support-for-mv3-extensions",
+    "mixpanel-browser": "2.67.0",
     "oauth-1.0a": "^2.2.6",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
